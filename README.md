@@ -21,7 +21,7 @@
 ---
 
 ### 📊 Tactical Metrics
-![Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&theme=transparent&hide_border=true&show_icons=true&text_color=888&title_color=eee)
+![Stats](https://github-readme-stats.vercel.app/api?username=tsylatac37&theme=transparent&hide_border=true&show_icons=true&text_color=888&title_color=eee)
 
 ---
 `[LOG_INITIATED]`  
