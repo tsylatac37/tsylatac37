@@ -1,25 +1,39 @@
-# Sai Prasad Padhy
+# SAI PRASAD PADHY
 
-> Figuring out how things work from the bare metal up.
+**FROM THE BARE METAL UP.**
 
-### `[01] // EXECUTED`
-* `|-` **Antenna Design:** Architecture and RF optimization.
-* `|-` **Telemetry:** Data acquisition and system architecture.
-
-### `[02] // R&D_DIRECTIVES`
-* `>>` **Silicon:** VLSI & Semiconductor Chip Design.
-* `>>` **Hardware:** Embedded Systems & PCB Layout.
-* `>>` **Security:** Privacy-focused hardware paradigms.
-* `>>` **Compute:** Low-level computing & Machine Learning.
-
-### `[03] // TECH_STACK`
-
-| Layer | Tooling |
-| :--- | :--- |
-| **EDA & Board Design** | `LTSPICE` `KiCAD` |
-| **Hardware Description** | `Verilog` |
-| **Systems & Scripting**| `C` `Python` |
-| **Version Control** | `GitHub` |
+Software promises privacy. Silicon enforces it.
+I like working close to where that gets decided.
 
 ---
-`EOF.`
+
+## EXECUTED
+
+```
+ANTENNA DESIGN    architecture, RF optimization
+TELEMETRY         data acquisition, system architecture
+```
+
+## DIRECTIVES
+
+```
+SILICON           VLSI, semiconductor chip design
+HARDWARE          embedded systems, PCB layout
+SECURITY          privacy-focused hardware
+COMPUTE           low-level computing, machine learning
+```
+
+## STACK
+
+```
+EDA               LTspice, KiCad
+HDL               Verilog
+SYSTEMS           C, Python
+VCS               GitHub
+```
+
+---
+
+## LET'S CONNECT
+
+[Sai Prasad Padhy](mailto:padhysaiprasad1932@gmail.com)
